@@ -1,2 +1,3 @@
 # PythonGame
-Created a simple game using Python.
+
+This is a game I made to show different Python concepts. 
